@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Todos-List-App
+A simple React-based application to manage your daily life tasks — your Todo List. This is a beginner-friendly project and a great way to learn React basics. If you'd like to contribute or suggest any improvements, feel free to raise an issue. Thank you! 
+>>>>>>> 9516b6ecbb5f2e9da1efade3ec7b0bdd568e9c8f
