@@ -39,6 +39,7 @@ const onDelete = (todo) => {
     <>
     <Header title="My Todos List" searchBar={true}/>
     <Todos todos={todos} onDelete={onDelete}/>
+    <Footer/>
   
     </>
   );
